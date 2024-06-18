@@ -1,19 +1,7 @@
-Title
+Account move line company defaul tax ids
 =======
 
-Description
-==============
-
-Configuration
-=============
-
-Usage
-=====
-Description usage
-
-
-Dependencies
-===============
+Per ripristinare un vecchio behaviour che prende la tax id di default dalla company
 
 
 Credits
@@ -27,4 +15,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.consulting>
+* Michele <dicroce.m@stesi.consulting>
